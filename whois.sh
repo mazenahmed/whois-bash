@@ -12,3 +12,4 @@ do
         echo $line " " $res >> results.txt
     fi
 done
+echo -e "\nGoodbye\nWritten By Mazen A. Gaballah"
